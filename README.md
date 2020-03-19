@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# SlideMe
+A simple picture slider using react.js
+
+Follow the instructions below to start project.
+
+1)Open the project folder and git bash here or open cmd
+2)Then type "npm start" withouth quote marks and click enter
+3)If everything is ok, you will have this project opened in browser
+4)You will see a search bar on the top of the page, click on it and write something,  for example: cars, flowers, and then click enter
+5)Now you will see another search box and a picture below it, you can click on picture and see what happens. Search bar is for navigation, there are 10 pictures always and you can simply use any number between 1 and 10 to navigate to particular picture.
+
 ## Available Scripts
 
 In the project directory, you can run:
